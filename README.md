@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- This is the second assignment of CMPT 276, and the professor is Dr.Fraser.
+- This is the second assignment of CMPT 276, and the professor is Dr. Fraser.
 
 - This assignment is to implement a lens calculator application that can run on Android machines.
 
