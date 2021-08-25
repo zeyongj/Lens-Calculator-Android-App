@@ -42,5 +42,6 @@ online at: http://www.sfu.ca/policies/gazette/student/s10-01.html.
 ## Authors
 
 - Zeyong, JIN
+- Yixuan, LU
 
 Oct 20, 2020
